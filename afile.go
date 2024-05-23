@@ -1,0 +1,5 @@
+package afile
+
+func AFunction() {
+	
+}
